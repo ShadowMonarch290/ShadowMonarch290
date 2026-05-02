@@ -6,9 +6,13 @@ I'm passionate about technology, programming, engineering, design and robots, al
 
 Having a technical background, I combine engineering knowledge with software development to create efficient solutions.
 
-#### ⚙️ Skills and development directions
-* 💻 **Programming:** I have advanced **C/C++** skills and am interested in applying them in embedded systems, IoT and industrial automation.
-* 🌱 **Continuous learning:** I aim to expand my portfolio with new languages ​​and technologies specific to digital production systems.
+#### ⚙️ Tehnologii și Limbaje
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+* I am interested in their application in embedded systems, IoT and industrial automation.
+* I aim to expand my portfolio with new languages ​​and technologies specific to digital production systems.
 
 #### ⚡ A few things about me
 * 🔭 I'm currently planning to develop projects in the area of ​​simulation and automation.
