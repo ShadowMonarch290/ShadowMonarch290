@@ -18,4 +18,3 @@ Having a technical background, I combine engineering knowledge with software dev
 * 🔭 I'm currently planning to develop projects in the area of ​​simulation and automation.
 * 🧩 When I'm not in front of the code, I enjoy reading, building LEGO sets, and exploring games with rich and complex *lore*.
 
-* [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bălu-ioan-9662692b8/)
