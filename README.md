@@ -1,7 +1,7 @@
 ## Hi there 👋
 ### 👋 Hello! I'm Ioan
 
-I'm a student at **Transilvania University of Brașov (UNITBV)**, ITMI faculty, majoring in **Digital Production Systems**. 
+I'm a student at **Transilvania University of Brașov (UNITBV)**, ITMI faculty, bacheloring in **Digital Production Systems**. 
 I'm passionate about technology, programming, engineering, design and robots, always looking for innovations and eager to discover new concepts.
 
 Having a technical background, I combine engineering knowledge with software development to create efficient solutions.
